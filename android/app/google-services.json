@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "5563314842",
+    "project_id": "naql-a0fd1",
+    "storage_bucket": "naql-a0fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5563314842:android:f38a52616d4df1d86ce523",
+        "android_client_info": {
+          "package_name": "com.art4muslim.naql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5563314842-hkvbvoveb9i8uie8e6h6uvr2rb7qn2gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Zm5minZgb-Fgipad1yIb4YM8sA91oXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5563314842-hkvbvoveb9i8uie8e6h6uvr2rb7qn2gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5563314842-a59e1mcdfs4nn5rkh2s3uks610792red.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.art4muslim.naql"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
